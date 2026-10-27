@@ -372,7 +372,6 @@ st.markdown("""
     Desarrollado por <b>Miguel Macias</b> | Basado en Normativa Aduana Nacional de Bolivia (ANB) y Nomenclatura NANDINA
 </div>
 """, unsafe_allow_html=True)
-```
 
 ---
 
